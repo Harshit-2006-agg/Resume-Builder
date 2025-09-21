@@ -518,7 +518,6 @@ const ResumeBuilderForm = () => {
                     className="group flex items-center px-6 py-3 bg-gradient-to-r from-indigo-500 to-blue-500 text-white rounded-2xl hover:from-indigo-600 hover:to-blue-600 transition-all duration-300 shadow-lg hover:shadow-xl transform hover:scale-105"
                   >
                     <Plus size={20} className="mr-2 group-hover:rotate-90 transition-transform duration-300" />
-                    Add Project
                   </button>
                 </div>
                 
@@ -600,7 +599,7 @@ const ResumeBuilderForm = () => {
                       <Briefcase className="text-white" size={28} />
                     </div>
                     <div className="ml-4">
-                      <h2 className="text-3xl font-bold text-gray-800">Experience / Internships</h2>
+                      <h2 className="text-3xl font-bold text-gray-800">Experience</h2>
                       <p className="text-gray-600">Your professional journey</p>
                     </div>
                   </div>
@@ -610,7 +609,6 @@ const ResumeBuilderForm = () => {
                     className="group flex items-center px-6 py-3 bg-gradient-to-r from-red-500 to-pink-500 text-white rounded-2xl hover:from-red-600 hover:to-pink-600 transition-all duration-300 shadow-lg hover:shadow-xl transform hover:scale-105"
                   >
                     <Plus size={20} className="mr-2 group-hover:rotate-90 transition-transform duration-300" />
-                    Add Experience
                   </button>
                 </div>
                 
@@ -709,7 +707,6 @@ const ResumeBuilderForm = () => {
                     className="group flex items-center px-6 py-3 bg-gradient-to-r from-yellow-500 to-orange-500 text-white rounded-2xl hover:from-yellow-600 hover:to-orange-600 transition-all duration-300 shadow-lg hover:shadow-xl transform hover:scale-105"
                   >
                     <Plus size={20} className="mr-2 group-hover:rotate-90 transition-transform duration-300" />
-                    Add Achievement
                   </button>
                 </div>
                 
@@ -775,7 +772,6 @@ const ResumeBuilderForm = () => {
                     className="group flex items-center px-6 py-3 bg-gradient-to-r from-teal-500 to-cyan-500 text-white rounded-2xl hover:from-teal-600 hover:to-cyan-600 transition-all duration-300 shadow-lg hover:shadow-xl transform hover:scale-105"
                   >
                     <Plus size={20} className="mr-2 group-hover:rotate-90 transition-transform duration-300" />
-                    Add Certification
                   </button>
                 </div>
                 
