@@ -515,7 +515,7 @@ const ResumeBuilderForm = () => {
                   <button
                     type="button"
                     onClick={() => addArrayItem('projects', { title: '', description: '', technologies: '', link: '' })}
-                    className="group flex items-center px-6 py-3 bg-gradient-to-r from-indigo-500 to-blue-500 text-white rounded-2xl hover:from-indigo-600 hover:to-blue-600 transition-all duration-300 shadow-lg hover:shadow-xl transform hover:scale-105"
+                    className="group flex items-center px-3 py-3 bg-gradient-to-r from-indigo-500 to-blue-500 text-white rounded-2xl hover:from-indigo-600 hover:to-blue-600 transition-all duration-300 shadow-lg hover:shadow-xl transform hover:scale-105"
                   >
                     <Plus size={20} className="mr-2 group-hover:rotate-90 transition-transform duration-300" />
                   </button>
@@ -606,7 +606,7 @@ const ResumeBuilderForm = () => {
                   <button
                     type="button"
                     onClick={() => addArrayItem('experiences', { title: '', company: '', duration: '', location: '', description: '' })}
-                    className="group flex items-center px-6 py-3 bg-gradient-to-r from-red-500 to-pink-500 text-white rounded-2xl hover:from-red-600 hover:to-pink-600 transition-all duration-300 shadow-lg hover:shadow-xl transform hover:scale-105"
+                    className="group flex items-center px-3 py-3 bg-gradient-to-r from-red-500 to-pink-500 text-white rounded-2xl hover:from-red-600 hover:to-pink-600 transition-all duration-300 shadow-lg hover:shadow-xl transform hover:scale-105"
                   >
                     <Plus size={20} className="mr-2 group-hover:rotate-90 transition-transform duration-300" />
                   </button>
@@ -704,7 +704,7 @@ const ResumeBuilderForm = () => {
                   <button
                     type="button"
                     onClick={() => addArrayItem('achievements', { title: '', description: '' })}
-                    className="group flex items-center px-6 py-3 bg-gradient-to-r from-yellow-500 to-orange-500 text-white rounded-2xl hover:from-yellow-600 hover:to-orange-600 transition-all duration-300 shadow-lg hover:shadow-xl transform hover:scale-105"
+                    className="group flex items-center px-3 py-3 bg-gradient-to-r from-yellow-500 to-orange-500 text-white rounded-2xl hover:from-yellow-600 hover:to-orange-600 transition-all duration-300 shadow-lg hover:shadow-xl transform hover:scale-105"
                   >
                     <Plus size={20} className="mr-2 group-hover:rotate-90 transition-transform duration-300" />
                   </button>
@@ -769,7 +769,7 @@ const ResumeBuilderForm = () => {
                   <button
                     type="button"
                     onClick={() => addArrayItem('certifications', { name: '', issuer: '', date: '', link: '' })}
-                    className="group flex items-center px-6 py-3 bg-gradient-to-r from-teal-500 to-cyan-500 text-white rounded-2xl hover:from-teal-600 hover:to-cyan-600 transition-all duration-300 shadow-lg hover:shadow-xl transform hover:scale-105"
+                    className="group flex items-center px-3 py-3 bg-gradient-to-r from-teal-500 to-cyan-500 text-white rounded-2xl hover:from-teal-600 hover:to-cyan-600 transition-all duration-300 shadow-lg hover:shadow-xl transform hover:scale-105"
                   >
                     <Plus size={20} className="mr-2 group-hover:rotate-90 transition-transform duration-300" />
                   </button>
